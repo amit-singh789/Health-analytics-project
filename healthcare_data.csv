@@ -1,0 +1,201 @@
+Patient_ID,Age,Gender,Disease,Department,Treatment_Cost,Insurance,Readmission
+P0001,36,Female,Diabetes,Cardiology,91021,No,Yes
+P0002,33,Male,Asthma,General,77178,No,No
+P0003,46,Male,Hypertension,Endocrinology,60769,No,Yes
+P0004,39,Male,Heart Disease,Pulmonology,11822,Yes,No
+P0005,25,Female,Heart Disease,General,39012,No,Yes
+P0006,57,Female,Asthma,Endocrinology,6460,Yes,Yes
+P0007,55,Male,Hypertension,Pulmonology,62599,Yes,Yes
+P0008,29,Male,Hypertension,Pulmonology,86378,Yes,No
+P0009,18,Female,Flu,General,80845,No,No
+P0010,70,Female,Asthma,General,16682,No,Yes
+P0011,76,Female,Hypertension,Cardiology,88442,No,Yes
+P0012,57,Male,Diabetes,Pulmonology,55935,Yes,No
+P0013,44,Male,Asthma,General,13392,No,Yes
+P0014,43,Male,Heart Disease,Cardiology,55451,No,No
+P0015,27,Female,Heart Disease,Endocrinology,26128,No,Yes
+P0016,24,Female,Hypertension,Cardiology,83459,Yes,No
+P0017,33,Female,Flu,Cardiology,55776,No,No
+P0018,54,Male,Flu,General,16040,Yes,No
+P0019,65,Male,Heart Disease,Endocrinology,45839,No,Yes
+P0020,59,Female,Heart Disease,Cardiology,34940,No,No
+P0021,54,Male,Flu,General,71056,No,No
+P0022,50,Male,Flu,Pulmonology,75504,Yes,No
+P0023,69,Male,Diabetes,General,29168,No,Yes
+P0024,62,Male,Hypertension,General,53269,No,No
+P0025,35,Female,Heart Disease,Cardiology,6646,No,No
+P0026,69,Male,Diabetes,Endocrinology,96797,Yes,No
+P0027,26,Male,Flu,Endocrinology,93092,Yes,Yes
+P0028,31,Male,Flu,Cardiology,87187,Yes,No
+P0029,74,Male,Heart Disease,General,45439,No,Yes
+P0030,72,Female,Asthma,Pulmonology,58664,No,Yes
+P0031,22,Male,Hypertension,Endocrinology,85693,Yes,Yes
+P0032,62,Female,Hypertension,General,11155,No,Yes
+P0033,22,Female,Hypertension,Pulmonology,21287,No,No
+P0034,65,Male,Hypertension,Endocrinology,77891,No,Yes
+P0035,56,Male,Hypertension,General,95168,Yes,No
+P0036,70,Female,Flu,Cardiology,6371,Yes,Yes
+P0037,76,Male,Asthma,General,49692,No,Yes
+P0038,47,Female,Diabetes,General,78024,Yes,No
+P0039,24,Female,Asthma,Endocrinology,84258,No,No
+P0040,44,Male,Asthma,Endocrinology,32068,Yes,No
+P0041,49,Female,Asthma,Endocrinology,78064,Yes,Yes
+P0042,72,Female,Flu,General,8041,Yes,No
+P0043,64,Male,Flu,Pulmonology,28908,Yes,Yes
+P0044,44,Male,Hypertension,General,37930,No,Yes
+P0045,75,Male,Flu,General,27936,No,No
+P0046,78,Female,Diabetes,Cardiology,24323,Yes,No
+P0047,35,Male,Hypertension,General,27391,Yes,No
+P0048,23,Female,Diabetes,Endocrinology,60837,Yes,No
+P0049,53,Female,Heart Disease,Pulmonology,52393,No,No
+P0050,37,Male,Heart Disease,General,94838,No,Yes
+P0051,74,Male,Heart Disease,General,41155,Yes,Yes
+P0052,67,Female,Flu,Endocrinology,31841,Yes,No
+P0053,61,Male,Asthma,Endocrinology,59881,No,No
+P0054,78,Male,Hypertension,Endocrinology,53963,Yes,Yes
+P0055,34,Male,Diabetes,Cardiology,90476,No,No
+P0056,74,Female,Hypertension,Cardiology,91125,Yes,Yes
+P0057,48,Female,Hypertension,Endocrinology,32328,No,Yes
+P0058,78,Female,Flu,Cardiology,20780,No,No
+P0059,74,Female,Asthma,General,41012,Yes,Yes
+P0060,33,Male,Heart Disease,Cardiology,87815,No,Yes
+P0061,37,Female,Asthma,Endocrinology,36392,No,No
+P0062,46,Female,Flu,General,80620,Yes,No
+P0063,34,Female,Heart Disease,Pulmonology,79549,Yes,No
+P0064,54,Female,Hypertension,Endocrinology,13323,No,Yes
+P0065,49,Male,Hypertension,Endocrinology,34579,Yes,No
+P0066,63,Male,Hypertension,Cardiology,56296,Yes,No
+P0067,37,Male,Hypertension,Endocrinology,90590,No,No
+P0068,74,Male,Asthma,Endocrinology,78589,Yes,Yes
+P0069,72,Male,Hypertension,General,12188,Yes,No
+P0070,35,Male,Flu,General,67480,No,No
+P0071,54,Female,Heart Disease,Pulmonology,80045,No,No
+P0072,74,Male,Asthma,Pulmonology,48129,No,Yes
+P0073,65,Female,Hypertension,Cardiology,91642,Yes,Yes
+P0074,40,Male,Asthma,General,14180,No,No
+P0075,34,Female,Asthma,General,81043,Yes,No
+P0076,40,Male,Diabetes,Endocrinology,41505,No,No
+P0077,29,Male,Hypertension,Pulmonology,32548,No,Yes
+P0078,78,Female,Flu,Endocrinology,96109,No,Yes
+P0079,64,Female,Hypertension,Cardiology,51214,No,Yes
+P0080,52,Male,Heart Disease,Cardiology,81630,No,Yes
+P0081,72,Female,Heart Disease,Endocrinology,10078,No,No
+P0082,73,Male,Diabetes,Endocrinology,72824,Yes,Yes
+P0083,62,Male,Heart Disease,General,23661,Yes,Yes
+P0084,24,Male,Flu,Endocrinology,36020,No,Yes
+P0085,41,Male,Flu,Endocrinology,36905,Yes,No
+P0086,40,Female,Diabetes,Pulmonology,38912,Yes,Yes
+P0087,24,Male,Asthma,Endocrinology,58097,Yes,Yes
+P0088,28,Female,Flu,Cardiology,28588,No,Yes
+P0089,67,Male,Heart Disease,Cardiology,24274,Yes,Yes
+P0090,67,Male,Flu,Cardiology,40482,Yes,No
+P0091,80,Male,Asthma,Endocrinology,98573,No,No
+P0092,72,Male,Hypertension,Pulmonology,15000,No,Yes
+P0093,77,Male,Heart Disease,Endocrinology,40339,No,No
+P0094,19,Female,Diabetes,Cardiology,73547,No,Yes
+P0095,44,Female,Heart Disease,Pulmonology,31777,No,No
+P0096,43,Female,Asthma,Pulmonology,45194,No,Yes
+P0097,45,Male,Diabetes,Endocrinology,12145,Yes,No
+P0098,61,Male,Diabetes,Pulmonology,97225,No,No
+P0099,54,Male,Hypertension,Endocrinology,37306,No,No
+P0100,23,Female,Diabetes,Pulmonology,27283,Yes,Yes
+P0101,21,Male,Diabetes,Cardiology,9174,Yes,No
+P0102,80,Female,Flu,Endocrinology,47627,No,No
+P0103,26,Male,Hypertension,Cardiology,58384,No,No
+P0104,53,Female,Heart Disease,General,54867,No,Yes
+P0105,24,Male,Asthma,General,82524,Yes,Yes
+P0106,55,Male,Hypertension,Pulmonology,46681,No,No
+P0107,77,Male,Asthma,Endocrinology,40139,No,No
+P0108,58,Female,Diabetes,Pulmonology,55039,No,No
+P0109,73,Male,Flu,Cardiology,99452,Yes,No
+P0110,30,Male,Diabetes,Pulmonology,29367,No,Yes
+P0111,69,Male,Asthma,Pulmonology,69010,Yes,Yes
+P0112,31,Female,Asthma,Pulmonology,7541,Yes,Yes
+P0113,67,Male,Heart Disease,General,40250,No,Yes
+P0114,20,Female,Flu,General,96901,Yes,No
+P0115,80,Male,Asthma,Endocrinology,19186,Yes,No
+P0116,20,Male,Heart Disease,Cardiology,6303,Yes,No
+P0117,61,Female,Diabetes,Endocrinology,95676,No,No
+P0118,72,Male,Heart Disease,Cardiology,40836,No,Yes
+P0119,34,Male,Diabetes,Pulmonology,83983,Yes,Yes
+P0120,67,Male,Hypertension,General,21929,Yes,No
+P0121,20,Female,Flu,General,96103,No,Yes
+P0122,76,Male,Diabetes,General,70610,Yes,Yes
+P0123,36,Female,Heart Disease,Endocrinology,11841,Yes,Yes
+P0124,49,Male,Hypertension,General,10063,Yes,Yes
+P0125,48,Male,Flu,Cardiology,27237,No,No
+P0126,40,Male,Asthma,Endocrinology,29500,No,Yes
+P0127,51,Female,Heart Disease,General,74486,No,No
+P0128,61,Female,Hypertension,Pulmonology,66123,No,Yes
+P0129,27,Female,Heart Disease,Pulmonology,78693,Yes,Yes
+P0130,20,Female,Asthma,Pulmonology,74678,Yes,Yes
+P0131,70,Female,Heart Disease,General,64500,No,No
+P0132,68,Male,Flu,Pulmonology,87001,Yes,No
+P0133,62,Male,Diabetes,General,79079,Yes,No
+P0134,22,Female,Diabetes,Cardiology,26638,Yes,No
+P0135,61,Male,Diabetes,Endocrinology,76520,No,Yes
+P0136,33,Female,Asthma,General,67159,Yes,No
+P0137,76,Female,Heart Disease,Pulmonology,45770,Yes,Yes
+P0138,56,Female,Heart Disease,General,9455,No,Yes
+P0139,60,Female,Heart Disease,Pulmonology,25283,No,Yes
+P0140,27,Female,Flu,Endocrinology,90828,Yes,Yes
+P0141,57,Female,Flu,Cardiology,93391,No,Yes
+P0142,27,Male,Diabetes,Pulmonology,6412,Yes,No
+P0143,72,Female,Heart Disease,Endocrinology,27155,Yes,Yes
+P0144,71,Female,Heart Disease,General,89692,Yes,Yes
+P0145,73,Male,Heart Disease,Pulmonology,56307,No,No
+P0146,80,Female,Asthma,Endocrinology,44611,No,No
+P0147,46,Male,Heart Disease,Pulmonology,94571,Yes,No
+P0148,36,Female,Heart Disease,Pulmonology,79297,No,No
+P0149,75,Male,Heart Disease,General,8296,Yes,Yes
+P0150,29,Female,Asthma,General,53073,Yes,Yes
+P0151,51,Female,Diabetes,Endocrinology,54811,No,No
+P0152,26,Female,Diabetes,Endocrinology,67922,Yes,No
+P0153,56,Female,Asthma,Pulmonology,11740,No,Yes
+P0154,75,Female,Flu,Pulmonology,70157,Yes,No
+P0155,74,Female,Flu,Cardiology,27455,No,No
+P0156,76,Male,Heart Disease,Pulmonology,62502,Yes,No
+P0157,52,Female,Flu,Pulmonology,91162,Yes,Yes
+P0158,46,Female,Flu,Cardiology,16143,Yes,No
+P0159,42,Female,Hypertension,Endocrinology,67384,No,No
+P0160,51,Female,Flu,Pulmonology,70356,No,No
+P0161,46,Female,Flu,Endocrinology,75107,Yes,Yes
+P0162,66,Male,Hypertension,Cardiology,12794,Yes,Yes
+P0163,74,Male,Diabetes,Cardiology,48877,No,Yes
+P0164,77,Female,Diabetes,General,19009,Yes,No
+P0165,69,Female,Hypertension,Cardiology,5388,Yes,Yes
+P0166,69,Male,Hypertension,Cardiology,20147,No,Yes
+P0167,54,Male,Flu,Endocrinology,33470,Yes,Yes
+P0168,20,Male,Asthma,Endocrinology,38777,Yes,Yes
+P0169,57,Male,Flu,General,68406,No,No
+P0170,79,Female,Diabetes,Pulmonology,28072,No,Yes
+P0171,25,Female,Hypertension,General,32800,Yes,Yes
+P0172,23,Male,Hypertension,General,55799,Yes,No
+P0173,53,Male,Heart Disease,Pulmonology,15675,Yes,No
+P0174,73,Female,Hypertension,Pulmonology,31442,Yes,No
+P0175,20,Female,Flu,Endocrinology,11646,No,Yes
+P0176,24,Male,Hypertension,Cardiology,82406,No,No
+P0177,67,Female,Flu,General,52592,No,Yes
+P0178,23,Female,Hypertension,Endocrinology,88344,No,Yes
+P0179,33,Male,Hypertension,Endocrinology,67990,No,No
+P0180,72,Female,Asthma,Cardiology,30534,No,Yes
+P0181,45,Male,Hypertension,Cardiology,26455,No,No
+P0182,59,Female,Hypertension,Pulmonology,19192,No,Yes
+P0183,18,Female,Diabetes,Cardiology,43770,Yes,No
+P0184,53,Male,Diabetes,Endocrinology,76317,No,No
+P0185,73,Male,Heart Disease,Pulmonology,66403,Yes,No
+P0186,28,Female,Diabetes,Cardiology,66726,Yes,Yes
+P0187,57,Male,Flu,Cardiology,94236,Yes,No
+P0188,64,Female,Diabetes,General,9966,No,Yes
+P0189,41,Female,Diabetes,General,48280,No,Yes
+P0190,29,Male,Flu,General,47708,Yes,Yes
+P0191,37,Female,Flu,Pulmonology,86672,No,No
+P0192,69,Female,Asthma,General,12702,Yes,No
+P0193,25,Male,Diabetes,Pulmonology,46395,Yes,Yes
+P0194,65,Female,Asthma,General,93295,No,Yes
+P0195,63,Male,Asthma,Pulmonology,68980,Yes,No
+P0196,20,Male,Flu,Endocrinology,66270,No,Yes
+P0197,28,Female,Flu,Pulmonology,91732,No,Yes
+P0198,59,Female,Hypertension,Endocrinology,22542,No,Yes
+P0199,54,Female,Diabetes,Cardiology,83075,No,Yes
+P0200,36,Female,Flu,Endocrinology,94025,No,No
